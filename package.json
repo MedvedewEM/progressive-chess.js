@@ -1,0 +1,29 @@
+{
+  "name": "chess-progressive.js",
+  "version": "0.0.1-dev",
+  "description": "Fork from 'https://github.com/jhlywa/chess.js/blob/master'. A Javascript chess library for progressive chess",
+  "author": "Egor Medvedev <e.medvedew@yandex.ru> (https://github.com/MedvedewEM)",
+  "license": "",
+  "homepage": "https://github.com/jhlywa/chess.js",
+  "keywords": ["chess"],
+  "main": "chess-progressive.js",
+  "filename": "chess-progressive.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MedvedewEM/progressive-chess.js.git"
+  },
+  "npmName": "chess-progressive.js",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": ["chess-progressive*.js"]
+    }
+  ],
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "chai": "^2.3.0",
+    "uglify-js": "^2.4.21"
+  },
+  "scripts": {
+  }
+}
